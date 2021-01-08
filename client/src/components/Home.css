@@ -1,0 +1,19 @@
+
+.wrap{
+  text-align: center;
+}
+.content{
+    padding:20px;
+font-family:sans-serif;
+background-color: rgb(6,6,34,0.3);
+}
+.content h1{
+    font-family:cursive;
+    font-weight: bolder;
+    color:rgb(6,6,34)
+}
+.content p{
+    text-align: center;
+    font-size:x-large;
+    color: rgb(6,6,34);
+}
